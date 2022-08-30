@@ -18,7 +18,7 @@ from core.errors import construct_error_not_found_embed
 
 block_links = ["discord.gg*", "https:*", "http:*", "https://discord.gg/*", "discord.gg", "https:", "http:"]
 allow_list = ["imgur", "https://github.com/", "github.io", "github", "google", "yandex", "tenor", "pinterest",
-              "https://discord.com/", "vk", "vk.com", "facebook", "https://vk.com/", "youtube",
+              "https://discord.com/", "vk", "vk.com", "politbuild", "politbuild.ru", "https://politbuild.ru/", "facebook", "https://vk.com/", "youtube",
               "https://www.youtube.com/"]
 
 

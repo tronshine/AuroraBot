@@ -709,8 +709,7 @@ class HelpSelectMenuRU(nextcord.ui.Select):
                             "`/autorole display_on_reaction` — Показать все автороли за реакции на сообщение",
             )
             embed.set_image(
-                url="https://cdn.discordapp.com/attachments/772385814483173398/1006610055589793862/Genshin-Impact-Ero"
-                    "-Genshin-Impact--Hu-Tao-Genshin-Impact-6593150.gif "
+                url="https://c.tenor.com/Yt1qcqQ9TBUAAAAd/minecraft-rei.gif "
             )
             await interaction.response.send_message(embed=embed, ephemeral=True)
         elif self.values[0] == "Развлечения":

@@ -6,7 +6,7 @@ from config import settings
 
 load_dotenv()
 
-token = os.getenv("token")
+token = "MTAxMzkzMzU1Nzg1MDMyMDk2Ng.G71O61.VxMcA7EypAS7AxOLS8SviVAZEZh5RAxsh00FYY"
 
 client = commands.Bot(
     command_prefix=settings["PREFIX"],
